@@ -4,4 +4,4 @@ David Bogoevski 226091
 
 Control Flow Graph
 
-![CreditCart CFG.png](..%2F..%2FDesktop%2FCreditCart%20CFG.png)
+![CreditCart CFG](https://github.com/AzureVolcano/SI_2024_lab2_226091/assets/163325967/e2ac83d3-76a9-4afa-b5f3-352f6db07e64)
