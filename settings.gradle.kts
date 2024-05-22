@@ -1,2 +1,2 @@
-rootProject.name = "untitled"
+rootProject.name = "SI_lab2_226091"
 
