@@ -39,7 +39,7 @@
             assertTrue(exception.getMessage().contains("Invalid character in item barcode!"));
 
             //7
-            assertFalse(SILab2.checkCart(create(new Item("Teodor", "123456", 500, -1)), 2));
+            assertFalse(SILab2.checkCart(create(new Item("Мики", "123456", 500, -1)), 2));
 
         }
 
